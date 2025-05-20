@@ -53,6 +53,3 @@ Para isso, vamos mergulhar em dados de vendas, desempenho e avaliações, utiliz
 
 Ao final do desafio, você terá desenvolvido uma análise de dados completa, gerado visualizações informativas e elaborado uma recomendação baseada em evidências — habilidades essenciais para qualquer cientista de dados iniciante! 💡
 
----
-
-Se quiser, posso adaptar essa descrição para ficar mais informal ou mais técnica, dependendo do estilo que tu prefere deixar no GitHub. Quer isso?
